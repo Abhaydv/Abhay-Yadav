@@ -11,7 +11,9 @@ a project partner,feel free to reach out.I'm eager to learn and contribute.
 
 
 . 🌱 I'm currently learning Big data Technologies like Apache, Kafka, Hadoop.
+
 .💼 I'm looking to collaborate on open-source and personal projects.
+
 .📬 How to reach me:
 abhayyadav6177@gmail.com
 
@@ -19,7 +21,10 @@ abhayyadav6177@gmail.com
 Languages and Tools
 
 Java c++ Python
-Sql No sql 
+
+Sql No sql
+
 Haddop Kafka Apache
+
 Git vs code
 
