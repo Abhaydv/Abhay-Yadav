@@ -1,4 +1,4 @@
-# Hi, I'm YOUR FULL NAME (Abhaydv) 👋
+# Hi, I'm (Abhaydv) 👋
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 ---
 
 ## About Me
-I am a [YOUR ROLE — e.g., Cloud Engineering Enthusiast / Software Engineer / Data Engineer] based in [CITY, COUNTRY]. I build scalable, secure systems and love turning ideas into production-ready software. Currently open to internships / freelance / full-time roles (ADJUST AS NEEDED).
+I am a [ Data Engineer] based in [Banglore, India]. I build scalable, secure systems and love turning ideas into production-ready software. Currently open to internships / freelance / full-time roles (ADJUST AS NEEDED).
 
 - 🔭 I’m currently working on: PROJECT_OR_FOCUS
 - 🌱 I’m learning: SKILL_OR_TECH (e.g., Kubernetes, Terraform, advanced AWS)
@@ -25,7 +25,7 @@ I am a [YOUR ROLE — e.g., Cloud Engineering Enthusiast / Software Engineer / D
 
 ## Skills & Technologies
 
-- Languages: JavaScript, TypeScript, Python, Go (update as appropriate)
+- Languages: JavaScript, java,c++, Python, Go (update as appropriate)
 - Cloud & DevOps: AWS (EC2, S3, IAM, VPC, RDS), Docker, Kubernetes, Terraform
 - Backend: Node.js, Express, FastAPI
 - Databases: PostgreSQL, MySQL, MongoDB
@@ -71,7 +71,7 @@ Short summary + links.
 ---
 
 ## Certifications & Training
-- Certification Name — Issuing Organization — YYYY (e.g., AWS Certified Solutions Architect — Amazon — 2024)
+- cyber security — My job Grow — 05 -2025 
 - Another Certification — Provider — YYYY
 
 ---
@@ -108,9 +108,11 @@ Short summary + links.
 ---
 
 ## Contact
-- Email: YOUR_EMAIL
-- LinkedIn: YOUR_LINKEDIN_URL
-- Twitter: @YOUR_TWITTER
+- Email: abhayyadav6177@gmail.com
+
+- LinkedIn: www.linkedin.com/in/abhay-yadav-6433222a3
+- Twitter: @AbhayYa21548057
+
 
 ---
 
